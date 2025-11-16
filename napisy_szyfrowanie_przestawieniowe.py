@@ -12,3 +12,5 @@ for i in range(len(slowo)):
     wynik += slowo[i]
 
 print(wynik)
+
+#ODSZYFROWANIE DZIALA DOKLADNIE TAK SAMO BO TRTZEBA NA NOWO ZAMIENIC LITERY MIEJSCAMI I BAJLANDO
