@@ -45,6 +45,10 @@ print(math.factorial(5))
 
 print(random.randint(1,100))
 
+print(round((math.sin(math.radians(x))) , 2)) #trygonometria
+print(round((math.cos(math.radians(x))) , 2))
+print(round((math.tan(math.radians(x))) , 2))
+
 
 
 
